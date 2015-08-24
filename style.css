@@ -55,7 +55,7 @@
 {	
 	background-attachment:fixed;
 		background-color: #645862;
-		background-image:  url("images/bg.png");
+		background-image:  url("images/bg-taxi.png");
 		background-position: top center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -191,6 +191,12 @@
 {
 	background: #8ab839;
 	padding: 60px 0px;
+}
+
+.section5
+{
+    background: #8ab839;
+    padding: 60px 0px;
 }
 .features-text
 {
@@ -427,6 +433,7 @@ h2.portfolio-text::after {
 	padding: 60px 0px;
 	float: left;
 	width: 100%;
+    background: #FFFFFF;
 }
 .contact-form, .address-space
 {
