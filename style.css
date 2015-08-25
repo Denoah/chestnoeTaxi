@@ -170,6 +170,18 @@
 	color: #8AB839;
 	text-transform: uppercase;
 }
+.desct p
+{
+    width: 75%;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #2E2E2E;
+    font-size: 16px;
+    /*text-align: center;*/
+    line-height: 25px;
+}
+
 .desc p
 {
 	width: 75%;
@@ -180,7 +192,6 @@
 	font-size: 16px;
 	text-align: center;
 	line-height: 25px;
-	
 }
 .desc p a
 {
@@ -318,13 +329,13 @@ h2.portfolio-text::after {
 {
 	width: 100%;
 }
-.work-list a .featured-img img
-{
-	width: 100%;
-	height: 200px;
-	float: left;
-	position: relative;	}
-	
+.work-list a .featured-img img {
+    width: 100%;
+    height: 100%;
+    float: left;
+    vertical-align: top;
+    /*position: relative;	}*/
+}
 @keyframes imagehover {
     0%   {height: 40px;}
     25%  {height: 80px;}
