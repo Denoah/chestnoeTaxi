@@ -201,7 +201,7 @@
 .features
 {
 	background: #8ab839;
-	padding: 60px 0px;
+	padding: 0px 0px;
 }
 
 .section5
@@ -565,4 +565,43 @@ input[placeholder], [placeholder], *[placeholder] {
     margin-top: 15px;
     width: 80% !important;
 }
+}
+
+.back-marselle {
+    background-attachment: fixed;
+    background-image: url("images/abstrakciya-1.jpg");
+    background-color: #645862;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000000;
+    cursor: default;
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+
+.back-marselle-bg{
+    background: rgba(50, 238, 86, 0.90);
+    padding: 10px 0px;
+}
+
+.back-galaxy {
+    background-attachment: fixed;
+    background-image: url("images/abstrakciya-2.jpg");
+    background-color: #645862;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000000;
+    cursor: default;
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+
+.back-galaxy-bg{
+    background: rgba(255, 255, 255, 0.80);
+    padding: 10px 0px;
+    width: 100%;
 }
