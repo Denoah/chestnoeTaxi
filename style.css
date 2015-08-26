@@ -570,7 +570,7 @@ input[placeholder], [placeholder], *[placeholder] {
 
 .back-marselle {
     background-attachment: fixed;
-    background-image: url("images/abstrakciya-2.jpg");
+    background-image: url("images/abstrakciya-1.jpg");
     background-color: #645862;
     background-position: top center;
     background-repeat: no-repeat;
@@ -599,27 +599,27 @@ input[placeholder], [placeholder], *[placeholder] {
 }
 
 .back-marselle-bg{
-    background: rgba(204, 255, 205, 0.90);
+    background: rgba(255, 230, 225, 0.90);
     padding: 10px 0px;
 }
 
 .back-galaxy-bg{
-    background: rgba(255, 239, 219, 0.80);
+    background: rgba(255, 208, 156, 0.80);
     padding: 10px 0px;
     width: 100%;
 }
 
 .back-evro-bg{
-    background: rgba(219, 203, 238, 0.90);
+    background: rgba(237, 238, 163, 0.90);
     padding: 10px 0px;
 }
 
 .back-zdrav-bg{
-    background: rgba(255, 255, 255, 0.90);
+    background: rgba(211, 255, 194, 0.90);
     padding: 10px 0px;
 }
 
 .back-chtaxi-bg{
-    background: rgba(214, 248, 255, 0.90);
+    background: rgba(231, 246, 255, 0.90);
     padding: 10px 0px;
 }
